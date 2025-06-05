@@ -4,6 +4,12 @@ O **SmartGate MQTT** é um sistema embarcado de controle de acesso inteligente d
 
 ---
 
+## Vídeo de Demonstração
+
+[Assista à demonstração do SmartGate MQTT](https://drive.google.com/file/d/1-Eo-eUEAC_75lqYn9iqdvpu7PxwAeI3g/view?usp=sharing)
+
+---
+
 ## Funcionalidades Principais
 
 - **Detecção de Presença em Tempo Real**: Utiliza sensor ultrassônico HC-SR04 para detectar aproximação de pessoas ou veículos com distância programável (≤ 30 cm).
@@ -266,4 +272,4 @@ No arquivo `smartgate-mqtt.c`, configure:
 ## Desenvolvido por
 
 Henrique Oliveira dos Santos  
-[LinkedIn](https://www.linkedin.com/in/dev-henriqueo-santos/)  
+[LinkedIn](https://www.linkedin.com/in/dev-henriqueo-santos/)
